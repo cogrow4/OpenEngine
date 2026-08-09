@@ -161,14 +161,19 @@ Plus a handful of `PLACEHOLDER_SELFHOST_NEEDED://` items that document the URL
 shape for additional Coverr / Pixabay / Pexels / Mixkit assets; these need
 to be self-hosted before shipping to users.
 
-### Additional wallpaper resources
+### External wallpaper resources (references, not bundled)
 
 [mylinuxforwork/wallpaper](https://github.com/mylinuxforwork/wallpaper)
-is a community-curated collection of 212 wallpapers (CC0 / GPLv2). OpenEngine
-does **not** bundle these — the GPLv2 license is viral and would complicate
-shipping a binary under the MIT license above. If you want these, clone the
-repo to a local folder and use Settings -> Choose File to apply individual
-wallpapers from disk.
+is a community-curated collection of 200+ wallpapers (GPLv2 / CC0). OpenEngine
+**does not bundle** these in the standard manifest — the GPLv2 license is viral
+and would require source disclosure for any derivative binary. We **reference**
+them externally: the app links to the original repository, and users clone the
+repo to a local folder to apply individual wallpapers via the file picker.
+No redistribution or attribution obligations apply since OpenEngine does not
+serve or embed these files.
+
+To include them in a custom manifest, set the `OPENENGINE_MANIFEST`
+environment variable to point to your self-hosted manifest before launching.
 
 Run `python3 library/verify_urls.py` after editing the manifest to HTTP-check
 every URL before commit.

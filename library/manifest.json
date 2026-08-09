@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-08T14:20:45.722818Z",
+  "generatedAt": "2026-08-09T23:32:51.797898Z",
   "items": [
     {
       "id": "aerial-yosemite-mountain",
@@ -12,13 +12,13 @@
       "kind": "video",
       "preview": {
         "url": "https://raw.githubusercontent.com/zhongzachary/sonoma-screen-savers/main/preview_images/81CA5ACD-E682-4D8B-A948-0F147EB6ED4F.png",
-        "mimeType": "video/mp4",
+        "mimeType": "image/png",
         "sizeBytes": null,
         "md5": null
       },
       "full": {
         "url": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/Y003_C009_UHD_SDR_FRC240fps_sdr_4k_qp23_240p_t2160_tsa.mov",
-        "mimeType": "video/mp4",
+        "mimeType": "video/quicktime",
         "sizeBytes": null,
         "md5": null
       },
@@ -40,13 +40,13 @@
       "kind": "video",
       "preview": {
         "url": "https://raw.githubusercontent.com/zhongzachary/sonoma-screen-savers/main/preview_images/DDE50C77-B7CB-4488-9EB1-D1B13BF21FFE.png",
-        "mimeType": "video/mp4",
+        "mimeType": "image/png",
         "sizeBytes": null,
         "md5": null
       },
       "full": {
         "url": "https://sylvan.apple.com/itunes-assets/Aerials126/v4/ec/eb/c8/ecebc8d2-5486-c2b2-52ae-6f0ab2d6b65f/I003_C008__0623CJ_UHD_SDR_240fps_ace2a32f-f189-4206-ba4c-e395fb1b4ea4q23_sRGB_tsa.mov",
-        "mimeType": "video/mp4",
+        "mimeType": "video/quicktime",
         "sizeBytes": null,
         "md5": null
       },
@@ -68,13 +68,13 @@
       "kind": "video",
       "preview": {
         "url": "https://raw.githubusercontent.com/zhongzachary/sonoma-screen-savers/main/preview_images/8002C4C8-C611-4894-A068-3D3A3C03472A.png",
-        "mimeType": "video/mp4",
+        "mimeType": "image/png",
         "sizeBytes": null,
         "md5": null
       },
       "full": {
         "url": "https://sylvan.apple.com/itunes-assets/Aerials126/v4/ec/eb/c8/ecebc8d2-5486-c2b2-52ae-6f0ab2d6b65f/G010_C026_UHD_SDR_v02_240fps_5e903ed6-1acf-495d-a0b5-8a9dd94df96bq26_sRGB_tsa.mov",
-        "mimeType": "video/mp4",
+        "mimeType": "video/quicktime",
         "sizeBytes": null,
         "md5": null
       },
@@ -96,13 +96,13 @@
       "kind": "video",
       "preview": {
         "url": "https://raw.githubusercontent.com/zhongzachary/sonoma-screen-savers/main/preview_images/12E0343D-2CD9-48EA-AB57-4D680FB6D0C7.png",
-        "mimeType": "video/mp4",
+        "mimeType": "image/png",
         "sizeBytes": null,
         "md5": null
       },
       "full": {
         "url": "https://sylvan.apple.com/itunes-assets/Aerials126/v4/ec/eb/c8/ecebc8d2-5486-c2b2-52ae-6f0ab2d6b65f/comp_H007_C003_PS_v01_SDR_PS_20180925_240fps_ad61d98e-fb4b-41c7-b981-9ff4b8a2ef27q25_sRGB_tsa.mov",
-        "mimeType": "video/mp4",
+        "mimeType": "video/quicktime",
         "sizeBytes": null,
         "md5": null
       },
@@ -124,13 +124,13 @@
       "kind": "video",
       "preview": {
         "url": "https://raw.githubusercontent.com/zhongzachary/sonoma-screen-savers/main/preview_images/5C987900-AD53-469C-8210-CABBCCDDFCAE.png",
-        "mimeType": "video/mp4",
+        "mimeType": "image/png",
         "sizeBytes": null,
         "md5": null
       },
       "full": {
         "url": "https://sylvan.apple.com/itunes-assets/Aerials126/v4/ec/eb/c8/ecebc8d2-5486-c2b2-52ae-6f0ab2d6b65f/P001_C005_UHD_SDR_240fps_89dfd1a5-485c-4572-8e9e-757bd06bcfa3q20_sRGB_tsa.mov",
-        "mimeType": "video/mp4",
+        "mimeType": "video/quicktime",
         "sizeBytes": null,
         "md5": null
       },
@@ -152,13 +152,13 @@
       "kind": "video",
       "preview": {
         "url": "https://raw.githubusercontent.com/zhongzachary/sonoma-screen-savers/main/preview_images/E161929C-0819-4BC2-8359-550C081C7D54.png",
-        "mimeType": "video/mp4",
+        "mimeType": "image/png",
         "sizeBytes": null,
         "md5": null
       },
       "full": {
         "url": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/S006_C007_UHD_SDR_FRC240fps_sdr_4k_qp20_240p_t2160_tsa.mov",
-        "mimeType": "video/mp4",
+        "mimeType": "video/quicktime",
         "sizeBytes": null,
         "md5": null
       },
@@ -288,13 +288,13 @@
       "kind": "image",
       "preview": {
         "url": "https://raw.githubusercontent.com/sheepla/wallpapers/main/iceberg-day.png",
-        "mimeType": "image/jpeg",
+        "mimeType": "image/png",
         "sizeBytes": null,
         "md5": null
       },
       "full": {
         "url": "https://raw.githubusercontent.com/sheepla/wallpapers/main/iceberg-day.png",
-        "mimeType": "image/jpeg",
+        "mimeType": "image/png",
         "sizeBytes": null,
         "md5": null
       },
@@ -315,13 +315,13 @@
       "kind": "image",
       "preview": {
         "url": "https://raw.githubusercontent.com/sheepla/wallpapers/main/iceberg-night.png",
-        "mimeType": "image/jpeg",
+        "mimeType": "image/png",
         "sizeBytes": null,
         "md5": null
       },
       "full": {
         "url": "https://raw.githubusercontent.com/sheepla/wallpapers/main/iceberg-night.png",
-        "mimeType": "image/jpeg",
+        "mimeType": "image/png",
         "sizeBytes": null,
         "md5": null
       },
@@ -452,13 +452,13 @@
       "kind": "image",
       "preview": {
         "url": "https://raw.githubusercontent.com/swaywm/sway/master/assets/Sway_Wallpaper_Blue_1920x1080.png",
-        "mimeType": "image/jpeg",
+        "mimeType": "image/png",
         "sizeBytes": null,
         "md5": null
       },
       "full": {
         "url": "https://raw.githubusercontent.com/swaywm/sway/master/assets/Sway_Wallpaper_Blue_1920x1080.png",
-        "mimeType": "image/jpeg",
+        "mimeType": "image/png",
         "sizeBytes": null,
         "md5": null
       },
@@ -505,13 +505,13 @@
       "kind": "image",
       "preview": {
         "url": "https://raw.githubusercontent.com/sheepla/wallpapers/main/desktop-iceberg.png",
-        "mimeType": "image/jpeg",
+        "mimeType": "image/png",
         "sizeBytes": null,
         "md5": null
       },
       "full": {
         "url": "https://raw.githubusercontent.com/sheepla/wallpapers/main/desktop-iceberg.png",
-        "mimeType": "image/jpeg",
+        "mimeType": "image/png",
         "sizeBytes": null,
         "md5": null
       },
@@ -532,13 +532,13 @@
       "kind": "image",
       "preview": {
         "url": "https://raw.githubusercontent.com/sheepla/wallpapers/main/vim-iceberg.png",
-        "mimeType": "image/jpeg",
+        "mimeType": "image/png",
         "sizeBytes": null,
         "md5": null
       },
       "full": {
         "url": "https://raw.githubusercontent.com/sheepla/wallpapers/main/vim-iceberg.png",
-        "mimeType": "image/jpeg",
+        "mimeType": "image/png",
         "sizeBytes": null,
         "md5": null
       },
@@ -559,13 +559,13 @@
       "kind": "image",
       "preview": {
         "url": "https://raw.githubusercontent.com/rose-pine/wallpapers/main/illustration/block-wave-moon.png",
-        "mimeType": "image/jpeg",
+        "mimeType": "image/png",
         "sizeBytes": null,
         "md5": null
       },
       "full": {
         "url": "https://raw.githubusercontent.com/rose-pine/wallpapers/main/illustration/block-wave-moon.png",
-        "mimeType": "image/jpeg",
+        "mimeType": "image/png",
         "sizeBytes": null,
         "md5": null
       },
@@ -586,13 +586,13 @@
       "kind": "image",
       "preview": {
         "url": "https://raw.githubusercontent.com/rose-pine/wallpapers/main/illustration/leafy-dawn.png",
-        "mimeType": "image/jpeg",
+        "mimeType": "image/png",
         "sizeBytes": null,
         "md5": null
       },
       "full": {
         "url": "https://raw.githubusercontent.com/rose-pine/wallpapers/main/illustration/leafy-dawn.png",
-        "mimeType": "image/jpeg",
+        "mimeType": "image/png",
         "sizeBytes": null,
         "md5": null
       },
@@ -639,13 +639,13 @@
       "kind": "image",
       "preview": {
         "url": "https://raw.githubusercontent.com/rose-pine/wallpapers/main/generative/maze.png",
-        "mimeType": "image/jpeg",
+        "mimeType": "image/png",
         "sizeBytes": null,
         "md5": null
       },
       "full": {
         "url": "https://raw.githubusercontent.com/rose-pine/wallpapers/main/generative/maze.png",
-        "mimeType": "image/jpeg",
+        "mimeType": "image/png",
         "sizeBytes": null,
         "md5": null
       },

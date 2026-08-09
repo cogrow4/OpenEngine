@@ -40,8 +40,13 @@ public struct PreviewTile: View {
         .aspectRatio(16.0/9.0, contentMode: .fit)
         .onHover { hovering in
             if hovering && loadState == .preview && presentable.kind == .video {
-                loadState = .video
-                asset = AVURLAsset(url: presentable.previewURL) as AVAsset
+                let isVideoPreview = ["mp4", "mov", "m4v"].contains(presentable.previewURL.pathExtension.lowercased())
+                if isVideoPreview {
+                    loadState = .video
+                    asset = AVURLAsset(url: presentable.previewURL) as AVAsset
+                }
+                // If the preview URL is an image (e.g. a PNG thumbnail), keep loadState = .preview
+                // — the AsyncImage in `content` already renders it correctly.
             }
         }
     }

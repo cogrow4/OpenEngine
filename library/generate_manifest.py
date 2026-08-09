@@ -497,9 +497,20 @@ ITEMS = [
 
 
 def to_asset(d, key):
+    url = d[key]
+    ext = url.split(".")[-1].lower() if "." in url else ""
+    mime = {
+        "mp4": "video/mp4",
+        "mov": "video/quicktime",
+        "jpg": "image/jpeg",
+        "jpeg": "image/jpeg",
+        "png": "image/png",
+        "webp": "image/webp",
+        "gif": "image/gif",
+    }.get(ext, d.get("mimeType") or ("video/mp4" if d["kind"] == "video" else "image/jpeg"))
     return {
-        "url": d[key],
-        "mimeType": "video/mp4" if d["kind"] == "video" else "image/jpeg",
+        "url": url,
+        "mimeType": mime,
         "sizeBytes": None,
         "md5": None,
     }
