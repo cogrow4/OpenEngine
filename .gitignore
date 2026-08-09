@@ -1,0 +1,33 @@
+# Build
+.build/
+build/
+*.build/
+
+# Xcode
+*.xcodeproj/
+*.xcodeproj
+DerivedData/
+*.xcworkspace
+
+# macOS
+.DS_Store
+.Spotlight-V100
+.Trashes
+.Tmbundle/
+Icon?
+
+# Swift Package
+/Package.pins
+/Podfile.lock
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Research artifacts (not part of the build)
+.research/
+
+# Local manifest overrides
+OPENENGINE_MANIFEST

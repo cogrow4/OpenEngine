@@ -1,0 +1,902 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-08-08T14:20:45.722818Z",
+  "items": [
+    {
+      "id": "aerial-yosemite-mountain",
+      "title": "Yosemite Mountains",
+      "author": "Apple (Aerials)",
+      "authorURL": "https://github.com/zhongzachary/sonoma-screen-savers",
+      "sourceURL": "https://github.com/zhongzachary/sonoma-screen-savers/blob/main/README.md",
+      "license": "Apple screensaver asset, served from sylvan.apple.com. Use within macOS context per Apple's standard screensaver terms.",
+      "kind": "video",
+      "preview": {
+        "url": "https://raw.githubusercontent.com/zhongzachary/sonoma-screen-savers/main/preview_images/81CA5ACD-E682-4D8B-A948-0F147EB6ED4F.png",
+        "mimeType": "video/mp4",
+        "sizeBytes": null,
+        "md5": null
+      },
+      "full": {
+        "url": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/Y003_C009_UHD_SDR_FRC240fps_sdr_4k_qp23_240p_t2160_tsa.mov",
+        "mimeType": "video/mp4",
+        "sizeBytes": null,
+        "md5": null
+      },
+      "loopDurationSeconds": 16,
+      "tags": [
+        "nature",
+        "mountain",
+        "aerial",
+        "cinematic"
+      ]
+    },
+    {
+      "id": "aerial-iceland-glacier",
+      "title": "Iceland Glacier",
+      "author": "Apple (Aerials)",
+      "authorURL": "https://github.com/zhongzachary/sonoma-screen-savers",
+      "sourceURL": "https://github.com/zhongzachary/sonoma-screen-savers/blob/main/README.md",
+      "license": "Apple screensaver asset, served from sylvan.apple.com.",
+      "kind": "video",
+      "preview": {
+        "url": "https://raw.githubusercontent.com/zhongzachary/sonoma-screen-savers/main/preview_images/DDE50C77-B7CB-4488-9EB1-D1B13BF21FFE.png",
+        "mimeType": "video/mp4",
+        "sizeBytes": null,
+        "md5": null
+      },
+      "full": {
+        "url": "https://sylvan.apple.com/itunes-assets/Aerials126/v4/ec/eb/c8/ecebc8d2-5486-c2b2-52ae-6f0ab2d6b65f/I003_C008__0623CJ_UHD_SDR_240fps_ace2a32f-f189-4206-ba4c-e395fb1b4ea4q23_sRGB_tsa.mov",
+        "mimeType": "video/mp4",
+        "sizeBytes": null,
+        "md5": null
+      },
+      "loopDurationSeconds": 18,
+      "tags": [
+        "nature",
+        "ice",
+        "aerial",
+        "cinematic"
+      ]
+    },
+    {
+      "id": "aerial-grand-canyon-river-valley",
+      "title": "Grand Canyon River Valley",
+      "author": "Apple (Aerials)",
+      "authorURL": "https://github.com/zhongzachary/sonoma-screen-savers",
+      "sourceURL": "https://github.com/zhongzachary/sonoma-screen-savers/blob/main/README.md",
+      "license": "Apple screensaver asset, served from sylvan.apple.com.",
+      "kind": "video",
+      "preview": {
+        "url": "https://raw.githubusercontent.com/zhongzachary/sonoma-screen-savers/main/preview_images/8002C4C8-C611-4894-A068-3D3A3C03472A.png",
+        "mimeType": "video/mp4",
+        "sizeBytes": null,
+        "md5": null
+      },
+      "full": {
+        "url": "https://sylvan.apple.com/itunes-assets/Aerials126/v4/ec/eb/c8/ecebc8d2-5486-c2b2-52ae-6f0ab2d6b65f/G010_C026_UHD_SDR_v02_240fps_5e903ed6-1acf-495d-a0b5-8a9dd94df96bq26_sRGB_tsa.mov",
+        "mimeType": "video/mp4",
+        "sizeBytes": null,
+        "md5": null
+      },
+      "loopDurationSeconds": 14,
+      "tags": [
+        "nature",
+        "desert",
+        "aerial",
+        "cinematic"
+      ]
+    },
+    {
+      "id": "aerial-hawaii-coastline",
+      "title": "Hawaii Coastline",
+      "author": "Apple (Aerials)",
+      "authorURL": "https://github.com/zhongzachary/sonoma-screen-savers",
+      "sourceURL": "https://github.com/zhongzachary/sonoma-screen-savers/blob/main/README.md",
+      "license": "Apple screensaver asset, served from sylvan.apple.com.",
+      "kind": "video",
+      "preview": {
+        "url": "https://raw.githubusercontent.com/zhongzachary/sonoma-screen-savers/main/preview_images/12E0343D-2CD9-48EA-AB57-4D680FB6D0C7.png",
+        "mimeType": "video/mp4",
+        "sizeBytes": null,
+        "md5": null
+      },
+      "full": {
+        "url": "https://sylvan.apple.com/itunes-assets/Aerials126/v4/ec/eb/c8/ecebc8d2-5486-c2b2-52ae-6f0ab2d6b65f/comp_H007_C003_PS_v01_SDR_PS_20180925_240fps_ad61d98e-fb4b-41c7-b981-9ff4b8a2ef27q25_sRGB_tsa.mov",
+        "mimeType": "video/mp4",
+        "sizeBytes": null,
+        "md5": null
+      },
+      "loopDurationSeconds": 15,
+      "tags": [
+        "nature",
+        "ocean",
+        "aerial",
+        "cinematic"
+      ]
+    },
+    {
+      "id": "aerial-patagonia-mountain",
+      "title": "Patagonia Mountain",
+      "author": "Apple (Aerials)",
+      "authorURL": "https://github.com/zhongzachary/sonoma-screen-savers",
+      "sourceURL": "https://github.com/zhongzachary/sonoma-screen-savers/blob/main/README.md",
+      "license": "Apple screensaver asset, served from sylvan.apple.com.",
+      "kind": "video",
+      "preview": {
+        "url": "https://raw.githubusercontent.com/zhongzachary/sonoma-screen-savers/main/preview_images/5C987900-AD53-469C-8210-CABBCCDDFCAE.png",
+        "mimeType": "video/mp4",
+        "sizeBytes": null,
+        "md5": null
+      },
+      "full": {
+        "url": "https://sylvan.apple.com/itunes-assets/Aerials126/v4/ec/eb/c8/ecebc8d2-5486-c2b2-52ae-6f0ab2d6b65f/P001_C005_UHD_SDR_240fps_89dfd1a5-485c-4572-8e9e-757bd06bcfa3q20_sRGB_tsa.mov",
+        "mimeType": "video/mp4",
+        "sizeBytes": null,
+        "md5": null
+      },
+      "loopDurationSeconds": 18,
+      "tags": [
+        "nature",
+        "mountain",
+        "aerial",
+        "cinematic"
+      ]
+    },
+    {
+      "id": "aerial-scotland-castle",
+      "title": "Scotland Castle",
+      "author": "Apple (Aerials)",
+      "authorURL": "https://github.com/zhongzachary/sonoma-screen-savers",
+      "sourceURL": "https://github.com/zhongzachary/sonoma-screen-savers/blob/main/README.md",
+      "license": "Apple screensaver asset, served from sylvan.apple.com.",
+      "kind": "video",
+      "preview": {
+        "url": "https://raw.githubusercontent.com/zhongzachary/sonoma-screen-savers/main/preview_images/E161929C-0819-4BC2-8359-550C081C7D54.png",
+        "mimeType": "video/mp4",
+        "sizeBytes": null,
+        "md5": null
+      },
+      "full": {
+        "url": "https://sylvan.apple.com/itunes-assets/Aerials116/v4/cb/5b/50/cb5b5035-6701-619f-9065-3d7d0e5fbef4/S006_C007_UHD_SDR_FRC240fps_sdr_4k_qp20_240p_t2160_tsa.mov",
+        "mimeType": "video/mp4",
+        "sizeBytes": null,
+        "md5": null
+      },
+      "loopDurationSeconds": 16,
+      "tags": [
+        "landscape",
+        "history",
+        "aerial"
+      ]
+    },
+    {
+      "id": "rose-pine-snowy-evergreen",
+      "title": "Snowy Evergreen",
+      "author": "Ros\u00e9 Pine",
+      "authorURL": "https://rosepinetheme.com",
+      "sourceURL": "https://github.com/rose-pine/wallpapers/blob/main/photography/snowy-evergreen.jpg",
+      "license": "CC0 1.0 Universal (Public Domain Dedication)",
+      "kind": "image",
+      "preview": {
+        "url": "https://raw.githubusercontent.com/rose-pine/wallpapers/main/photography/snowy-evergreen.jpg",
+        "mimeType": "image/jpeg",
+        "sizeBytes": null,
+        "md5": null
+      },
+      "full": {
+        "url": "https://raw.githubusercontent.com/rose-pine/wallpapers/main/photography/snowy-evergreen.jpg",
+        "mimeType": "image/jpeg",
+        "sizeBytes": null,
+        "md5": null
+      },
+      "loopDurationSeconds": null,
+      "tags": [
+        "nature",
+        "snow",
+        "winter",
+        "minimal"
+      ]
+    },
+    {
+      "id": "rose-pine-building",
+      "title": "Moody Building",
+      "author": "Ros\u00e9 Pine",
+      "authorURL": "https://rosepinetheme.com",
+      "sourceURL": "https://github.com/rose-pine/wallpapers/blob/main/photography/building.jpg",
+      "license": "CC0 1.0 Universal",
+      "kind": "image",
+      "preview": {
+        "url": "https://raw.githubusercontent.com/rose-pine/wallpapers/main/photography/building.jpg",
+        "mimeType": "image/jpeg",
+        "sizeBytes": null,
+        "md5": null
+      },
+      "full": {
+        "url": "https://raw.githubusercontent.com/rose-pine/wallpapers/main/photography/building.jpg",
+        "mimeType": "image/jpeg",
+        "sizeBytes": null,
+        "md5": null
+      },
+      "loopDurationSeconds": null,
+      "tags": [
+        "architecture",
+        "moody",
+        "minimal"
+      ]
+    },
+    {
+      "id": "rose-pine-kainoa-kanter-ocean",
+      "title": "Ocean (Kainoa Kanter)",
+      "author": "Kainoa Kanter (Ros\u00e9 Pine / CC0)",
+      "authorURL": "https://github.com/rose-pine/wallpapers/tree/main/photography/kainoa-kanter",
+      "sourceURL": "https://github.com/rose-pine/wallpapers/blob/main/photography/kainoa-kanter/ocean-drone-1.jpg",
+      "license": "CC0 1.0 Universal",
+      "kind": "image",
+      "preview": {
+        "url": "https://raw.githubusercontent.com/rose-pine/wallpapers/main/photography/kainoa-kanter/ocean-drone-1.jpg",
+        "mimeType": "image/jpeg",
+        "sizeBytes": null,
+        "md5": null
+      },
+      "full": {
+        "url": "https://raw.githubusercontent.com/rose-pine/wallpapers/main/photography/kainoa-kanter/ocean-drone-1.jpg",
+        "mimeType": "image/jpeg",
+        "sizeBytes": null,
+        "md5": null
+      },
+      "loopDurationSeconds": null,
+      "tags": [
+        "nature",
+        "ocean",
+        "aerial"
+      ]
+    },
+    {
+      "id": "rose-pine-kainoa-kanter-moon",
+      "title": "Moonlight (Kainoa Kanter)",
+      "author": "Kainoa Kanter (Ros\u00e9 Pine / CC0)",
+      "authorURL": "https://github.com/rose-pine/wallpapers/tree/main/photography/kainoa-kanter",
+      "sourceURL": "https://github.com/rose-pine/wallpapers/blob/main/photography/kainoa-kanter/moon.jpg",
+      "license": "CC0 1.0 Universal",
+      "kind": "image",
+      "preview": {
+        "url": "https://raw.githubusercontent.com/rose-pine/wallpapers/main/photography/kainoa-kanter/moon.jpg",
+        "mimeType": "image/jpeg",
+        "sizeBytes": null,
+        "md5": null
+      },
+      "full": {
+        "url": "https://raw.githubusercontent.com/rose-pine/wallpapers/main/photography/kainoa-kanter/moon.jpg",
+        "mimeType": "image/jpeg",
+        "sizeBytes": null,
+        "md5": null
+      },
+      "loopDurationSeconds": null,
+      "tags": [
+        "nature",
+        "night",
+        "moon"
+      ]
+    },
+    {
+      "id": "sheepla-iceberg-day",
+      "title": "Iceberg - Day",
+      "author": "sheepla",
+      "authorURL": "https://github.com/sheepla",
+      "sourceURL": "https://github.com/sheepla/wallpapers/blob/main/iceberg-day.png",
+      "license": "CC0 1.0 Universal",
+      "kind": "image",
+      "preview": {
+        "url": "https://raw.githubusercontent.com/sheepla/wallpapers/main/iceberg-day.png",
+        "mimeType": "image/jpeg",
+        "sizeBytes": null,
+        "md5": null
+      },
+      "full": {
+        "url": "https://raw.githubusercontent.com/sheepla/wallpapers/main/iceberg-day.png",
+        "mimeType": "image/jpeg",
+        "sizeBytes": null,
+        "md5": null
+      },
+      "loopDurationSeconds": null,
+      "tags": [
+        "abstract",
+        "ice",
+        "minimal"
+      ]
+    },
+    {
+      "id": "sheepla-iceberg-night",
+      "title": "Iceberg - Night",
+      "author": "sheepla",
+      "authorURL": "https://github.com/sheepla",
+      "sourceURL": "https://github.com/sheepla/wallpapers/blob/main/iceberg-night.png",
+      "license": "CC0 1.0 Universal",
+      "kind": "image",
+      "preview": {
+        "url": "https://raw.githubusercontent.com/sheepla/wallpapers/main/iceberg-night.png",
+        "mimeType": "image/jpeg",
+        "sizeBytes": null,
+        "md5": null
+      },
+      "full": {
+        "url": "https://raw.githubusercontent.com/sheepla/wallpapers/main/iceberg-night.png",
+        "mimeType": "image/jpeg",
+        "sizeBytes": null,
+        "md5": null
+      },
+      "loopDurationSeconds": null,
+      "tags": [
+        "abstract",
+        "ice",
+        "minimal",
+        "dark"
+      ]
+    },
+    {
+      "id": "sheepla-snow-mountain-day",
+      "title": "Snow Mountain - Day",
+      "author": "sheepla",
+      "authorURL": "https://github.com/sheepla",
+      "sourceURL": "https://github.com/sheepla/wallpapers/blob/main/snow-mountain-day.jpg",
+      "license": "CC0 1.0 Universal",
+      "kind": "image",
+      "preview": {
+        "url": "https://raw.githubusercontent.com/sheepla/wallpapers/main/snow-mountain-day.jpg",
+        "mimeType": "image/jpeg",
+        "sizeBytes": null,
+        "md5": null
+      },
+      "full": {
+        "url": "https://raw.githubusercontent.com/sheepla/wallpapers/main/snow-mountain-day.jpg",
+        "mimeType": "image/jpeg",
+        "sizeBytes": null,
+        "md5": null
+      },
+      "loopDurationSeconds": null,
+      "tags": [
+        "nature",
+        "mountain",
+        "snow"
+      ]
+    },
+    {
+      "id": "sheepla-snow-mountain-twilight",
+      "title": "Snow Mountain - Twilight",
+      "author": "sheepla",
+      "authorURL": "https://github.com/sheepla",
+      "sourceURL": "https://github.com/sheepla/wallpapers/blob/main/snow-mountain-twilight.jpg",
+      "license": "CC0 1.0 Universal",
+      "kind": "image",
+      "preview": {
+        "url": "https://raw.githubusercontent.com/sheepla/wallpapers/main/snow-mountain-twilight.jpg",
+        "mimeType": "image/jpeg",
+        "sizeBytes": null,
+        "md5": null
+      },
+      "full": {
+        "url": "https://raw.githubusercontent.com/sheepla/wallpapers/main/snow-mountain-twilight.jpg",
+        "mimeType": "image/jpeg",
+        "sizeBytes": null,
+        "md5": null
+      },
+      "loopDurationSeconds": null,
+      "tags": [
+        "nature",
+        "mountain",
+        "snow",
+        "twilight"
+      ]
+    },
+    {
+      "id": "popos-unsplash-benjamin-voros",
+      "title": "Misty Forest",
+      "author": "Benjamin Voros (Unsplash, public domain)",
+      "authorURL": "https://unsplash.com/photos/yrwpJwDNSHE",
+      "sourceURL": "https://github.com/pop-os/wallpapers",
+      "license": "Unsplash License (public domain)",
+      "kind": "image",
+      "preview": {
+        "url": "https://raw.githubusercontent.com/pop-os/wallpapers/master/original/benjamin-voros-250200.jpg",
+        "mimeType": "image/jpeg",
+        "sizeBytes": null,
+        "md5": null
+      },
+      "full": {
+        "url": "https://raw.githubusercontent.com/pop-os/wallpapers/master/original/benjamin-voros-250200.jpg",
+        "mimeType": "image/jpeg",
+        "sizeBytes": null,
+        "md5": null
+      },
+      "loopDurationSeconds": null,
+      "tags": [
+        "nature",
+        "forest",
+        "moody"
+      ]
+    },
+    {
+      "id": "popos-unsplash-galen-crout",
+      "title": "Mountain Lake",
+      "author": "Galen Crout (Unsplash, public domain)",
+      "authorURL": "https://unsplash.com/photos/ZYecenZy7o4",
+      "sourceURL": "https://github.com/pop-os/wallpapers",
+      "license": "Unsplash License (public domain)",
+      "kind": "image",
+      "preview": {
+        "url": "https://raw.githubusercontent.com/pop-os/wallpapers/master/original/galen-crout-175291.jpg",
+        "mimeType": "image/jpeg",
+        "sizeBytes": null,
+        "md5": null
+      },
+      "full": {
+        "url": "https://raw.githubusercontent.com/pop-os/wallpapers/master/original/galen-crout-175291.jpg",
+        "mimeType": "image/jpeg",
+        "sizeBytes": null,
+        "md5": null
+      },
+      "loopDurationSeconds": null,
+      "tags": [
+        "nature",
+        "mountain",
+        "lake"
+      ]
+    },
+    {
+      "id": "sway-blue-wallpaper",
+      "title": "Sway Blue Wallpaper",
+      "author": "Sway WM Team",
+      "authorURL": "https://github.com/swaywm/sway",
+      "sourceURL": "https://github.com/swaywm/sway/tree/master/assets",
+      "license": "CC0 1.0 Universal (per Sway license commit)",
+      "kind": "image",
+      "preview": {
+        "url": "https://raw.githubusercontent.com/swaywm/sway/master/assets/Sway_Wallpaper_Blue_1920x1080.png",
+        "mimeType": "image/jpeg",
+        "sizeBytes": null,
+        "md5": null
+      },
+      "full": {
+        "url": "https://raw.githubusercontent.com/swaywm/sway/master/assets/Sway_Wallpaper_Blue_1920x1080.png",
+        "mimeType": "image/jpeg",
+        "sizeBytes": null,
+        "md5": null
+      },
+      "loopDurationSeconds": null,
+      "tags": [
+        "abstract",
+        "blue",
+        "minimal"
+      ]
+    },
+    {
+      "id": "sheepla-manjaro",
+      "title": "Manjaro Mountains",
+      "author": "sheepla",
+      "authorURL": "https://github.com/sheepla",
+      "sourceURL": "https://github.com/sheepla/wallpapers/blob/main/Manjaro.jpg",
+      "license": "CC0 1.0 Universal",
+      "kind": "image",
+      "preview": {
+        "url": "https://raw.githubusercontent.com/sheepla/wallpapers/main/Manjaro.jpg",
+        "mimeType": "image/jpeg",
+        "sizeBytes": null,
+        "md5": null
+      },
+      "full": {
+        "url": "https://raw.githubusercontent.com/sheepla/wallpapers/main/Manjaro.jpg",
+        "mimeType": "image/jpeg",
+        "sizeBytes": null,
+        "md5": null
+      },
+      "loopDurationSeconds": null,
+      "tags": [
+        "nature",
+        "mountain"
+      ]
+    },
+    {
+      "id": "sheepla-desktop-iceberg",
+      "title": "Iceberg Desktop",
+      "author": "sheepla",
+      "authorURL": "https://github.com/sheepla",
+      "sourceURL": "https://github.com/sheepla/wallpapers/blob/main/desktop-iceberg.png",
+      "license": "CC0 1.0 Universal",
+      "kind": "image",
+      "preview": {
+        "url": "https://raw.githubusercontent.com/sheepla/wallpapers/main/desktop-iceberg.png",
+        "mimeType": "image/jpeg",
+        "sizeBytes": null,
+        "md5": null
+      },
+      "full": {
+        "url": "https://raw.githubusercontent.com/sheepla/wallpapers/main/desktop-iceberg.png",
+        "mimeType": "image/jpeg",
+        "sizeBytes": null,
+        "md5": null
+      },
+      "loopDurationSeconds": null,
+      "tags": [
+        "abstract",
+        "ice",
+        "minimal"
+      ]
+    },
+    {
+      "id": "sheepla-vim-iceberg",
+      "title": "Vim Iceberg",
+      "author": "sheepla",
+      "authorURL": "https://github.com/sheepla",
+      "sourceURL": "https://github.com/sheepla/wallpapers/blob/main/vim-iceberg.png",
+      "license": "CC0 1.0 Universal",
+      "kind": "image",
+      "preview": {
+        "url": "https://raw.githubusercontent.com/sheepla/wallpapers/main/vim-iceberg.png",
+        "mimeType": "image/jpeg",
+        "sizeBytes": null,
+        "md5": null
+      },
+      "full": {
+        "url": "https://raw.githubusercontent.com/sheepla/wallpapers/main/vim-iceberg.png",
+        "mimeType": "image/jpeg",
+        "sizeBytes": null,
+        "md5": null
+      },
+      "loopDurationSeconds": null,
+      "tags": [
+        "abstract",
+        "ice",
+        "minimal"
+      ]
+    },
+    {
+      "id": "rose-pine-block-wave-moon",
+      "title": "Block Wave Moon",
+      "author": "Ros\u00e9 Pine",
+      "authorURL": "https://rosepinetheme.com",
+      "sourceURL": "https://github.com/rose-pine/wallpapers/blob/main/illustration/block-wave-moon.png",
+      "license": "CC0 1.0 Universal",
+      "kind": "image",
+      "preview": {
+        "url": "https://raw.githubusercontent.com/rose-pine/wallpapers/main/illustration/block-wave-moon.png",
+        "mimeType": "image/jpeg",
+        "sizeBytes": null,
+        "md5": null
+      },
+      "full": {
+        "url": "https://raw.githubusercontent.com/rose-pine/wallpapers/main/illustration/block-wave-moon.png",
+        "mimeType": "image/jpeg",
+        "sizeBytes": null,
+        "md5": null
+      },
+      "loopDurationSeconds": null,
+      "tags": [
+        "abstract",
+        "minimal",
+        "moon"
+      ]
+    },
+    {
+      "id": "rose-pine-leafy-dawn",
+      "title": "Leafy Dawn",
+      "author": "Ros\u00e9 Pine",
+      "authorURL": "https://rosepinetheme.com",
+      "sourceURL": "https://github.com/rose-pine/wallpapers/blob/main/illustration/leafy-dawn.png",
+      "license": "CC0 1.0 Universal",
+      "kind": "image",
+      "preview": {
+        "url": "https://raw.githubusercontent.com/rose-pine/wallpapers/main/illustration/leafy-dawn.png",
+        "mimeType": "image/jpeg",
+        "sizeBytes": null,
+        "md5": null
+      },
+      "full": {
+        "url": "https://raw.githubusercontent.com/rose-pine/wallpapers/main/illustration/leafy-dawn.png",
+        "mimeType": "image/jpeg",
+        "sizeBytes": null,
+        "md5": null
+      },
+      "loopDurationSeconds": null,
+      "tags": [
+        "abstract",
+        "dawn",
+        "minimal"
+      ]
+    },
+    {
+      "id": "rose-pine-big-shoulders",
+      "title": "Big Shoulders",
+      "author": "Ros\u00e9 Pine",
+      "authorURL": "https://rosepinetheme.com",
+      "sourceURL": "https://github.com/rose-pine/wallpapers/blob/main/illustration/big%20shoulders.jpg",
+      "license": "CC0 1.0 Universal",
+      "kind": "image",
+      "preview": {
+        "url": "https://raw.githubusercontent.com/rose-pine/wallpapers/main/illustration/big%20shoulders.jpg",
+        "mimeType": "image/jpeg",
+        "sizeBytes": null,
+        "md5": null
+      },
+      "full": {
+        "url": "https://raw.githubusercontent.com/rose-pine/wallpapers/main/illustration/big%20shoulders.jpg",
+        "mimeType": "image/jpeg",
+        "sizeBytes": null,
+        "md5": null
+      },
+      "loopDurationSeconds": null,
+      "tags": [
+        "abstract",
+        "geometric"
+      ]
+    },
+    {
+      "id": "rose-pine-maze",
+      "title": "Maze",
+      "author": "Ros\u00e9 Pine",
+      "authorURL": "https://rosepinetheme.com",
+      "sourceURL": "https://github.com/rose-pine/wallpapers/blob/main/generative/maze.png",
+      "license": "CC0 1.0 Universal",
+      "kind": "image",
+      "preview": {
+        "url": "https://raw.githubusercontent.com/rose-pine/wallpapers/main/generative/maze.png",
+        "mimeType": "image/jpeg",
+        "sizeBytes": null,
+        "md5": null
+      },
+      "full": {
+        "url": "https://raw.githubusercontent.com/rose-pine/wallpapers/main/generative/maze.png",
+        "mimeType": "image/jpeg",
+        "sizeBytes": null,
+        "md5": null
+      },
+      "loopDurationSeconds": null,
+      "tags": [
+        "abstract",
+        "generative",
+        "geometric"
+      ]
+    },
+    {
+      "id": "popos-unsplash-jake-hills",
+      "title": "Coastal View",
+      "author": "Jake Hills (Unsplash, public domain)",
+      "authorURL": "https://unsplash.com",
+      "sourceURL": "https://github.com/pop-os/wallpapers",
+      "license": "Unsplash License (public domain)",
+      "kind": "image",
+      "preview": {
+        "url": "https://raw.githubusercontent.com/pop-os/wallpapers/master/original/jake-hills-36605.jpg",
+        "mimeType": "image/jpeg",
+        "sizeBytes": null,
+        "md5": null
+      },
+      "full": {
+        "url": "https://raw.githubusercontent.com/pop-os/wallpapers/master/original/jake-hills-36605.jpg",
+        "mimeType": "image/jpeg",
+        "sizeBytes": null,
+        "md5": null
+      },
+      "loopDurationSeconds": null,
+      "tags": [
+        "nature",
+        "coast"
+      ]
+    },
+    {
+      "id": "popos-unsplash-ferdinand-stohr",
+      "title": "Moody Forest Path",
+      "author": "Ferdinand Stohr (Unsplash, public domain)",
+      "authorURL": "https://unsplash.com",
+      "sourceURL": "https://github.com/pop-os/wallpapers",
+      "license": "Unsplash License (public domain)",
+      "kind": "image",
+      "preview": {
+        "url": "https://raw.githubusercontent.com/pop-os/wallpapers/master/original/ferdinand-stohr-149422.jpg",
+        "mimeType": "image/jpeg",
+        "sizeBytes": null,
+        "md5": null
+      },
+      "full": {
+        "url": "https://raw.githubusercontent.com/pop-os/wallpapers/master/original/ferdinand-stohr-149422.jpg",
+        "mimeType": "image/jpeg",
+        "sizeBytes": null,
+        "md5": null
+      },
+      "loopDurationSeconds": null,
+      "tags": [
+        "nature",
+        "forest",
+        "moody"
+      ]
+    },
+    {
+      "id": "coverr-aurora-night",
+      "title": "Aurora Over Mountain Lake",
+      "author": "Coverr",
+      "authorURL": "https://coverr.co",
+      "sourceURL": "https://coverr.co/videos/aurora-over-mountains",
+      "license": "Coverr License (free for commercial use, no attribution required)",
+      "kind": "video",
+      "preview": {
+        "url": "PLACEHOLDER_SELFHOST_NEEDED://previews/coverr-aurora-night-preview.mp4",
+        "mimeType": "video/mp4",
+        "sizeBytes": null,
+        "md5": null
+      },
+      "full": {
+        "url": "PLACEHOLDER_SELFHOST_NEEDED://full/coverr-aurora-night.mp4",
+        "mimeType": "video/mp4",
+        "sizeBytes": null,
+        "md5": null
+      },
+      "loopDurationSeconds": 18,
+      "tags": [
+        "nature",
+        "aurora",
+        "night"
+      ]
+    },
+    {
+      "id": "pixabay-ocean-drone",
+      "title": "Drone Over Calm Ocean",
+      "author": "Pixabay",
+      "authorURL": "https://pixabay.com",
+      "sourceURL": "https://pixabay.com/videos/ocean-drone-aerial-water-3020/",
+      "license": "Pixabay Content License (free for commercial use, no attribution required)",
+      "kind": "video",
+      "preview": {
+        "url": "PLACEHOLDER_SELFHOST_NEEDED://previews/pixabay-ocean-drone-preview.mp4",
+        "mimeType": "video/mp4",
+        "sizeBytes": null,
+        "md5": null
+      },
+      "full": {
+        "url": "PLACEHOLDER_SELFHOST_NEEDED://full/pixabay-ocean-drone.mp4",
+        "mimeType": "video/mp4",
+        "sizeBytes": null,
+        "md5": null
+      },
+      "loopDurationSeconds": 15,
+      "tags": [
+        "nature",
+        "ocean",
+        "aerial",
+        "calm"
+      ]
+    },
+    {
+      "id": "pexels-clouds-timelapse",
+      "title": "Clouds Timelapse Over Valley",
+      "author": "Pexels",
+      "authorURL": "https://pexels.com",
+      "sourceURL": "https://www.pexels.com/video/clouds-time-lapse-855714/",
+      "license": "Pexels License (free for commercial use, no attribution required)",
+      "kind": "video",
+      "preview": {
+        "url": "PLACEHOLDER_SELFHOST_NEEDED://previews/pexels-clouds-timelapse-preview.mp4",
+        "mimeType": "video/mp4",
+        "sizeBytes": null,
+        "md5": null
+      },
+      "full": {
+        "url": "PLACEHOLDER_SELFHOST_NEEDED://full/pexels-clouds-timelapse.mp4",
+        "mimeType": "video/mp4",
+        "sizeBytes": null,
+        "md5": null
+      },
+      "loopDurationSeconds": 10,
+      "tags": [
+        "nature",
+        "sky",
+        "timelapse"
+      ]
+    },
+    {
+      "id": "mixkit-lava-flow",
+      "title": "Glowing Lava Flow",
+      "author": "Mixkit",
+      "authorURL": "https://mixkit.co",
+      "sourceURL": "https://mixkit.co/free-stock-video/lava-flow/",
+      "license": "Mixkit Free License",
+      "kind": "video",
+      "preview": {
+        "url": "PLACEHOLDER_SELFHOST_NEEDED://previews/mixkit-lava-flow-preview.mp4",
+        "mimeType": "video/mp4",
+        "sizeBytes": null,
+        "md5": null
+      },
+      "full": {
+        "url": "PLACEHOLDER_SELFHOST_NEEDED://full/mixkit-lava-flow.mp4",
+        "mimeType": "video/mp4",
+        "sizeBytes": null,
+        "md5": null
+      },
+      "loopDurationSeconds": 12,
+      "tags": [
+        "abstract",
+        "warm"
+      ]
+    },
+    {
+      "id": "pixabay-mountain-sunrise",
+      "title": "Mountain Sunrise",
+      "author": "Pixabay",
+      "authorURL": "https://pixabay.com",
+      "sourceURL": "https://pixabay.com/photos/mountain-sunrise-dawn-landscape-5852355/",
+      "license": "Pixabay Content License",
+      "kind": "image",
+      "preview": {
+        "url": "PLACEHOLDER_SELFHOST_NEEDED://previews/pixabay-mountain-sunrise-preview.jpg",
+        "mimeType": "image/jpeg",
+        "sizeBytes": null,
+        "md5": null
+      },
+      "full": {
+        "url": "PLACEHOLDER_SELFHOST_NEEDED://full/pixabay-mountain-sunrise.jpg",
+        "mimeType": "image/jpeg",
+        "sizeBytes": null,
+        "md5": null
+      },
+      "loopDurationSeconds": null,
+      "tags": [
+        "nature",
+        "mountain",
+        "sunrise"
+      ]
+    },
+    {
+      "id": "pexels-forest-fog",
+      "title": "Foggy Forest",
+      "author": "Pexels",
+      "authorURL": "https://pexels.com",
+      "sourceURL": "https://www.pexels.com/photo/fog-forest-4823097/",
+      "license": "Pexels License",
+      "kind": "image",
+      "preview": {
+        "url": "PLACEHOLDER_SELFHOST_NEEDED://previews/pexels-forest-fog-preview.jpg",
+        "mimeType": "image/jpeg",
+        "sizeBytes": null,
+        "md5": null
+      },
+      "full": {
+        "url": "PLACEHOLDER_SELFHOST_NEEDED://full/pexels-forest-fog.jpg",
+        "mimeType": "image/jpeg",
+        "sizeBytes": null,
+        "md5": null
+      },
+      "loopDurationSeconds": null,
+      "tags": [
+        "nature",
+        "forest",
+        "fog"
+      ]
+    },
+    {
+      "id": "pexels-stars-milkyway",
+      "title": "Milky Way Night Sky",
+      "author": "Pexels",
+      "authorURL": "https://pexels.com",
+      "sourceURL": "https://www.pexels.com/photo/milky-way-starry-sky-1252890/",
+      "license": "Pexels License",
+      "kind": "image",
+      "preview": {
+        "url": "PLACEHOLDER_SELFHOST_NEEDED://previews/pexels-stars-milkyway-preview.jpg",
+        "mimeType": "image/jpeg",
+        "sizeBytes": null,
+        "md5": null
+      },
+      "full": {
+        "url": "PLACEHOLDER_SELFHOST_NEEDED://full/pexels-stars-milkyway.jpg",
+        "mimeType": "image/jpeg",
+        "sizeBytes": null,
+        "md5": null
+      },
+      "loopDurationSeconds": null,
+      "tags": [
+        "space",
+        "stars",
+        "night"
+      ]
+    }
+  ]
+}
