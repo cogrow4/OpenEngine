@@ -46,7 +46,7 @@ public struct PreviewTile: View {
                     asset = AVURLAsset(url: presentable.previewURL) as AVAsset
                 }
                 // If the preview URL is an image (e.g. a PNG thumbnail), keep loadState = .preview
-                // — the AsyncImage in `content` already renders it correctly.
+                // — the ThumbnailImage in `content` already renders it correctly.
             }
         }
     }
@@ -55,32 +55,12 @@ public struct PreviewTile: View {
     var content: some View {
         switch presentable.kind {
         case .image:
-            AsyncImage(url: presentable.previewURL) { phase in
-                switch phase {
-                case .empty:
-                    Rectangle().fill(.quaternary).overlay(ProgressView())
-                case .success(let img):
-                    img.resizable().scaledToFill()
-                case .failure:
-                    Rectangle().fill(.quaternary).overlay(Image(systemName: "photo").font(.title).foregroundStyle(.secondary))
-                @unknown default:
-                    Rectangle().fill(.quaternary)
-                }
-            }
+            ThumbnailImage(url: presentable.previewURL, maxDimension: 360, placeholderIcon: "photo")
         case .video:
             if let a = asset {
                 LoopingVideoPlayer(asset: a).ignoresSafeArea()
             } else {
-                AsyncImage(url: presentable.previewURL) { phase in
-                    switch phase {
-                    case .empty:
-                        Rectangle().fill(.quaternary).overlay(ProgressView())
-                    case .success(let img):
-                        img.resizable().scaledToFill()
-                    default:
-                        Rectangle().fill(.quaternary).overlay(Image(systemName: "film").font(.title).foregroundStyle(.secondary))
-                    }
-                }
+                ThumbnailImage(url: presentable.previewURL, maxDimension: 360, placeholderIcon: "film")
             }
         default:
             Rectangle().fill(.quaternary)
