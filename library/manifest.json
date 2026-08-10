@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-09T23:32:51.797898Z",
+  "generatedAt": "2026-08-10T00:03:00.320602Z",
   "items": [
     {
       "id": "aerial-yosemite-mountain",
@@ -896,6 +896,418 @@
         "space",
         "stars",
         "night"
+      ]
+    },
+    {
+      "id": "ml4w-aesthetic-deer",
+      "title": "Aesthetic Deer",
+      "author": "mylinuxforwork",
+      "authorURL": "https://github.com/mylinuxforwork",
+      "sourceURL": "https://github.com/mylinuxforwork/wallpaper",
+      "license": "GNU GPL v2 (external reference \u2014 not bundled, see README)",
+      "kind": "image",
+      "preview": {
+        "url": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/aesthetic_deer.jpg",
+        "mimeType": "image/jpeg",
+        "sizeBytes": null,
+        "md5": null
+      },
+      "full": {
+        "url": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/aesthetic_deer.jpg",
+        "mimeType": "image/jpeg",
+        "sizeBytes": null,
+        "md5": null
+      },
+      "loopDurationSeconds": null,
+      "tags": [
+        "external-reference",
+        "nature",
+        "deer",
+        "dark"
+      ]
+    },
+    {
+      "id": "ml4w-arch1",
+      "title": "Arch Linux Wave",
+      "author": "mylinuxforwork",
+      "authorURL": "https://github.com/mylinuxforwork",
+      "sourceURL": "https://github.com/mylinuxforwork/wallpaper",
+      "license": "GNU GPL v2 (external reference \u2014 not bundled, see README)",
+      "kind": "image",
+      "preview": {
+        "url": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/arch1.png",
+        "mimeType": "image/png",
+        "sizeBytes": null,
+        "md5": null
+      },
+      "full": {
+        "url": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/arch1.png",
+        "mimeType": "image/png",
+        "sizeBytes": null,
+        "md5": null
+      },
+      "loopDurationSeconds": null,
+      "tags": [
+        "external-reference",
+        "abstract",
+        "linux",
+        "minimal"
+      ]
+    },
+    {
+      "id": "ml4w-mountain",
+      "title": "Mountain Landscape",
+      "author": "mylinuxforwork",
+      "authorURL": "https://github.com/mylinuxforwork",
+      "sourceURL": "https://github.com/mylinuxforwork/wallpaper",
+      "license": "GNU GPL v2 (external reference \u2014 not bundled, see README)",
+      "kind": "image",
+      "preview": {
+        "url": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/mountain.jpg",
+        "mimeType": "image/jpeg",
+        "sizeBytes": null,
+        "md5": null
+      },
+      "full": {
+        "url": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/mountain.jpg",
+        "mimeType": "image/jpeg",
+        "sizeBytes": null,
+        "md5": null
+      },
+      "loopDurationSeconds": null,
+      "tags": [
+        "external-reference",
+        "nature",
+        "mountain"
+      ]
+    },
+    {
+      "id": "ml4w-space-nebula",
+      "title": "Space Nebula",
+      "author": "mylinuxforwork",
+      "authorURL": "https://github.com/mylinuxforwork",
+      "sourceURL": "https://github.com/mylinuxforwork/wallpaper",
+      "license": "GNU GPL v2 (external reference \u2014 not bundled, see README)",
+      "kind": "image",
+      "preview": {
+        "url": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/Space-Nebula.png",
+        "mimeType": "image/png",
+        "sizeBytes": null,
+        "md5": null
+      },
+      "full": {
+        "url": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/Space-Nebula.png",
+        "mimeType": "image/png",
+        "sizeBytes": null,
+        "md5": null
+      },
+      "loopDurationSeconds": null,
+      "tags": [
+        "external-reference",
+        "space",
+        "nebula",
+        "abstract"
+      ]
+    },
+    {
+      "id": "ml4w-cyberpunk",
+      "title": "Cyberpunk City",
+      "author": "mylinuxforwork",
+      "authorURL": "https://github.com/mylinuxforwork",
+      "sourceURL": "https://github.com/mylinuxforwork/wallpaper",
+      "license": "GNU GPL v2 (external reference \u2014 not bundled, see README)",
+      "kind": "image",
+      "preview": {
+        "url": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/cyberpunk.png",
+        "mimeType": "image/png",
+        "sizeBytes": null,
+        "md5": null
+      },
+      "full": {
+        "url": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/cyberpunk.png",
+        "mimeType": "image/png",
+        "sizeBytes": null,
+        "md5": null
+      },
+      "loopDurationSeconds": null,
+      "tags": [
+        "external-reference",
+        "abstract",
+        "neon",
+        "dark"
+      ]
+    },
+    {
+      "id": "ml4w-astronaut",
+      "title": "Astronaut",
+      "author": "mylinuxforwork",
+      "authorURL": "https://github.com/mylinuxforwork",
+      "sourceURL": "https://github.com/mylinuxforwork/wallpaper",
+      "license": "GNU GPL v2 (external reference \u2014 not bundled, see README)",
+      "kind": "image",
+      "preview": {
+        "url": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/astronaut.png",
+        "mimeType": "image/png",
+        "sizeBytes": null,
+        "md5": null
+      },
+      "full": {
+        "url": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/astronaut.png",
+        "mimeType": "image/png",
+        "sizeBytes": null,
+        "md5": null
+      },
+      "loopDurationSeconds": null,
+      "tags": [
+        "external-reference",
+        "space",
+        "sci-fi"
+      ]
+    },
+    {
+      "id": "ml4w-sunset-landscape",
+      "title": "Sunset Landscape",
+      "author": "mylinuxforwork",
+      "authorURL": "https://github.com/mylinuxforwork",
+      "sourceURL": "https://github.com/mylinuxforwork/wallpaper",
+      "license": "GNU GPL v2 (external reference \u2014 not bundled, see README)",
+      "kind": "image",
+      "preview": {
+        "url": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/sunset-01.png",
+        "mimeType": "image/png",
+        "sizeBytes": null,
+        "md5": null
+      },
+      "full": {
+        "url": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/sunset-01.png",
+        "mimeType": "image/png",
+        "sizeBytes": null,
+        "md5": null
+      },
+      "loopDurationSeconds": null,
+      "tags": [
+        "external-reference",
+        "nature",
+        "sunset"
+      ]
+    },
+    {
+      "id": "ml4w-forest-landscape",
+      "title": "Forest Landscape",
+      "author": "mylinuxforwork",
+      "authorURL": "https://github.com/mylinuxforwork",
+      "sourceURL": "https://github.com/mylinuxforwork/wallpaper",
+      "license": "GNU GPL v2 (external reference \u2014 not bundled, see README)",
+      "kind": "image",
+      "preview": {
+        "url": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/forest-landscape.jpg",
+        "mimeType": "image/jpeg",
+        "sizeBytes": null,
+        "md5": null
+      },
+      "full": {
+        "url": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/forest-landscape.jpg",
+        "mimeType": "image/jpeg",
+        "sizeBytes": null,
+        "md5": null
+      },
+      "loopDurationSeconds": null,
+      "tags": [
+        "external-reference",
+        "nature",
+        "forest"
+      ]
+    },
+    {
+      "id": "ml4w-abstract-dark",
+      "title": "Abstract Dark",
+      "author": "mylinuxforwork",
+      "authorURL": "https://github.com/mylinuxforwork",
+      "sourceURL": "https://github.com/mylinuxforwork/wallpaper",
+      "license": "GNU GPL v2 (external reference \u2014 not bundled, see README)",
+      "kind": "image",
+      "preview": {
+        "url": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/abstract-dark.png",
+        "mimeType": "image/png",
+        "sizeBytes": null,
+        "md5": null
+      },
+      "full": {
+        "url": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/abstract-dark.png",
+        "mimeType": "image/png",
+        "sizeBytes": null,
+        "md5": null
+      },
+      "loopDurationSeconds": null,
+      "tags": [
+        "external-reference",
+        "abstract",
+        "dark"
+      ]
+    },
+    {
+      "id": "ml4w-blackhole",
+      "title": "Black Hole",
+      "author": "mylinuxforwork",
+      "authorURL": "https://github.com/mylinuxforwork",
+      "sourceURL": "https://github.com/mylinuxforwork/wallpaper",
+      "license": "GNU GPL v2 (external reference \u2014 not bundled, see README)",
+      "kind": "image",
+      "preview": {
+        "url": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/blackhole.jpg",
+        "mimeType": "image/jpeg",
+        "sizeBytes": null,
+        "md5": null
+      },
+      "full": {
+        "url": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/blackhole.jpg",
+        "mimeType": "image/jpeg",
+        "sizeBytes": null,
+        "md5": null
+      },
+      "loopDurationSeconds": null,
+      "tags": [
+        "external-reference",
+        "space",
+        "science"
+      ]
+    },
+    {
+      "id": "ml4w-snow-capped",
+      "title": "Snow Capped Mountains",
+      "author": "mylinuxforwork",
+      "authorURL": "https://github.com/mylinuxforwork",
+      "sourceURL": "https://github.com/mylinuxforwork/wallpaper",
+      "license": "GNU GPL v2 (external reference \u2014 not bundled, see README)",
+      "kind": "image",
+      "preview": {
+        "url": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/snowcapped-mountains.jpg",
+        "mimeType": "image/jpeg",
+        "sizeBytes": null,
+        "md5": null
+      },
+      "full": {
+        "url": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/snowcapped-mountains.jpg",
+        "mimeType": "image/jpeg",
+        "sizeBytes": null,
+        "md5": null
+      },
+      "loopDurationSeconds": null,
+      "tags": [
+        "external-reference",
+        "nature",
+        "mountain",
+        "snow"
+      ]
+    },
+    {
+      "id": "ml4w-night-city",
+      "title": "Night City",
+      "author": "mylinuxforwork",
+      "authorURL": "https://github.com/mylinuxforwork",
+      "sourceURL": "https://github.com/mylinuxforwork/wallpaper",
+      "license": "GNU GPL v2 (external reference \u2014 not bundled, see README)",
+      "kind": "image",
+      "preview": {
+        "url": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/night_city.jpg",
+        "mimeType": "image/jpeg",
+        "sizeBytes": null,
+        "md5": null
+      },
+      "full": {
+        "url": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/night_city.jpg",
+        "mimeType": "image/jpeg",
+        "sizeBytes": null,
+        "md5": null
+      },
+      "loopDurationSeconds": null,
+      "tags": [
+        "external-reference",
+        "abstract",
+        "cyberpunk",
+        "dark"
+      ]
+    },
+    {
+      "id": "ml4w-tron-legacy",
+      "title": "Tron Legacy",
+      "author": "mylinuxforwork",
+      "authorURL": "https://github.com/mylinuxforwork",
+      "sourceURL": "https://github.com/mylinuxforwork/wallpaper",
+      "license": "GNU GPL v2 (external reference \u2014 not bundled, see README)",
+      "kind": "image",
+      "preview": {
+        "url": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/tron_legacy1.jpg",
+        "mimeType": "image/jpeg",
+        "sizeBytes": null,
+        "md5": null
+      },
+      "full": {
+        "url": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/tron_legacy1.jpg",
+        "mimeType": "image/jpeg",
+        "sizeBytes": null,
+        "md5": null
+      },
+      "loopDurationSeconds": null,
+      "tags": [
+        "external-reference",
+        "abstract",
+        "sci-fi",
+        "dark"
+      ]
+    },
+    {
+      "id": "ml4w-groot",
+      "title": "Groot",
+      "author": "mylinuxforwork",
+      "authorURL": "https://github.com/mylinuxforwork",
+      "sourceURL": "https://github.com/mylinuxforwork/wallpaper",
+      "license": "GNU GPL v2 (external reference \u2014 not bundled, see README)",
+      "kind": "image",
+      "preview": {
+        "url": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/groot_1.jpg",
+        "mimeType": "image/jpeg",
+        "sizeBytes": null,
+        "md5": null
+      },
+      "full": {
+        "url": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/groot_1.jpg",
+        "mimeType": "image/jpeg",
+        "sizeBytes": null,
+        "md5": null
+      },
+      "loopDurationSeconds": null,
+      "tags": [
+        "external-reference",
+        "nature",
+        "fantasy"
+      ]
+    },
+    {
+      "id": "ml4w-liquid1",
+      "title": "Liquid Flow",
+      "author": "mylinuxforwork",
+      "authorURL": "https://github.com/mylinuxforwork",
+      "sourceURL": "https://github.com/mylinuxforwork/wallpaper",
+      "license": "GNU GPL v2 (external reference \u2014 not bundled, see README)",
+      "kind": "image",
+      "preview": {
+        "url": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/liquid1.jpg",
+        "mimeType": "image/jpeg",
+        "sizeBytes": null,
+        "md5": null
+      },
+      "full": {
+        "url": "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/liquid1.jpg",
+        "mimeType": "image/jpeg",
+        "sizeBytes": null,
+        "md5": null
+      },
+      "loopDurationSeconds": null,
+      "tags": [
+        "external-reference",
+        "abstract",
+        "color"
       ]
     }
   ]

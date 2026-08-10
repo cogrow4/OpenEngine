@@ -494,7 +494,56 @@ ITEMS = [
         "tags": ["space", "stars", "night"],
     },
 ]
+# --------------------------------------------------------------------------
+# mylinuxforwork/wallpaper — external reference set (GPLv2)
+#
+# These entries LINK to images in the mylinuxforwork/wallpaper repository.
+# The repository is licensed under GPLv2. We do NOT bundle or redistribute
+# the image files — the app only stores a URL; the image is downloaded
+# directly from the original repo by the user at apply-time. This is
+# analogous to a link or bookmark and does not constitute a derivative work.
+#
+# For legal caution, these are clearly tagged in the manifest and the
+# README documents the licensing situation. Users who prefer fully
+# permissive assets can filter these out or set OPENENGINE_MANIFEST to
+# a custom manifest without them.
+# --------------------------------------------------------------------------
+DUMMY_ML4W = {
+    "author": "mylinuxforwork",
+    "authorURL": "https://github.com/mylinuxforwork",
+    "sourceURL": "https://github.com/mylinuxforwork/wallpaper",
+    "license": "GNU GPL v2 (external reference — not bundled, see README)",
+}
 
+ML4W_ITEMS = [
+    ("ml4w-aesthetic-deer",       "aesthetic_deer.jpg",        "Aesthetic Deer",            ["nature", "deer", "dark"]),
+    ("ml4w-arch1",                "arch1.png",                 "Arch Linux Wave",           ["abstract", "linux", "minimal"]),
+    ("ml4w-mountain",             "mountain.jpg",              "Mountain Landscape",        ["nature", "mountain"]),
+    ("ml4w-space-nebula",         "Space-Nebula.png",          "Space Nebula",              ["space", "nebula", "abstract"]),
+    ("ml4w-cyberpunk",            "cyberpunk.png",             "Cyberpunk City",            ["abstract", "neon", "dark"]),
+    ("ml4w-astronaut",            "astronaut.png",             "Astronaut",                 ["space", "sci-fi"]),
+    ("ml4w-sunset-landscape",     "sunset-01.png",             "Sunset Landscape",           ["nature", "sunset"]),
+    ("ml4w-forest-landscape",     "forest-landscape.jpg",      "Forest Landscape",           ["nature", "forest"]),
+    ("ml4w-abstract-dark",        "abstract-dark.png",         "Abstract Dark",              ["abstract", "dark"]),
+    ("ml4w-blackhole",            "blackhole.jpg",             "Black Hole",                ["space", "science"]),
+    ("ml4w-snow-capped",          "snowcapped-mountains.jpg",  "Snow Capped Mountains",      ["nature", "mountain", "snow"]),
+    ("ml4w-night-city",           "night_city.jpg",            "Night City",                ["abstract", "cyberpunk", "dark"]),
+    ("ml4w-tron-legacy",          "tron_legacy1.jpg",          "Tron Legacy",               ["abstract", "sci-fi", "dark"]),
+    ("ml4w-groot",                "groot_1.jpg",               "Groot",                     ["nature", "fantasy"]),
+    ("ml4w-liquid1",              "liquid1.jpg",               "Liquid Flow",               ["abstract", "color"]),
+]
+_ML4W_BASE = "https://raw.githubusercontent.com/mylinuxforwork/wallpaper/main/"
+for _id, _file, _title, _tags in ML4W_ITEMS:
+    ITEMS.append({
+        "kind": "image",
+        "id": _id,
+        "title": _title,
+        "preview": _ML4W_BASE + _file,
+        "full": _ML4W_BASE + _file,
+        **DUMMY_ML4W,
+        "loopSeconds": None,
+        "tags": ["external-reference"] + _tags,
+    })
 
 def to_asset(d, key):
     url = d[key]

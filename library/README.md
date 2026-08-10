@@ -102,16 +102,18 @@ Each `full` asset can declare an `md5` field; if present, downloaded files are
 verified before being moved into the on-disk cache. The `generate_manifest.py`
 helper can be extended to compute MD5s at publish time (see the inline comment).
 
-## External wallpaper resources (references, not bundled)
+## External wallpaper resources (links, not bundled)
 
 [mylinuxforwork/wallpaper](https://github.com/mylinuxforwork/wallpaper) is a
-community-curated collection of 200+ wallpapers (CC0 / GPLv2). OpenEngine
-**does not bundle** these in the manifest — the GPLv2 license is viral and
-would require source disclosure for any derivative binary. We **reference**
-them externally: the app links to the original repo, and users clone the repo
-to a local folder to apply individual wallpapers via the file picker. No
-redistribution obligations apply since OpenEngine does not serve or embed
-these files.
+community-curated collection of 200+ wallpapers. The repo is licensed under
+**GNU GPL v2** — a copyleft license.
 
-To include them in a custom manifest, set `OPENENGINE_MANIFEST` to your
-self-hosted manifest URL before launching the app.
+OpenEngine **does not bundle or redistribute** any image files from that repo.
+A curated subset of 15 wallpapers is **referenced by URL** in the standard
+`manifest.json`. When selected, the app downloads the image directly from the
+original GitHub repository — file bytes flow from GitHub to the user's machine.
+The OpenEngine binary remains MIT-licensed; we distribute only metadata (URLs,
+titles, attribution). Each item is tagged `"external-reference"`.
+
+You can filter these in the gallery, or set `OPENENGINE_MANIFEST` to a custom
+manifest URL if you prefer fully permissive assets only.

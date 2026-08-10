@@ -161,19 +161,30 @@ Plus a handful of `PLACEHOLDER_SELFHOST_NEEDED://` items that document the URL
 shape for additional Coverr / Pixabay / Pexels / Mixkit assets; these need
 to be self-hosted before shipping to users.
 
-### External wallpaper resources (references, not bundled)
+### External wallpaper resources (links, not bundled)
 
 [mylinuxforwork/wallpaper](https://github.com/mylinuxforwork/wallpaper)
-is a community-curated collection of 200+ wallpapers (GPLv2 / CC0). OpenEngine
-**does not bundle** these in the standard manifest — the GPLv2 license is viral
-and would require source disclosure for any derivative binary. We **reference**
-them externally: the app links to the original repository, and users clone the
-repo to a local folder to apply individual wallpapers via the file picker.
-No redistribution or attribution obligations apply since OpenEngine does not
-serve or embed these files.
+is a community-curated collection of 200+ wallpapers. The repo is licensed
+under **GNU GPL v2** — a copyleft license.
 
-To include them in a custom manifest, set the `OPENENGINE_MANIFEST`
-environment variable to point to your self-hosted manifest before launching.
+OpenEngine **does not bundle or redistribute** any image files from that
+repository. Instead, a curated subset of 15 wallpapers is **referenced by URL**
+in the standard manifest (`https://raw.githubusercontent.com/...`). When a
+user selects one of these wallpapers, the app downloads the image directly
+from the original GitHub repository — the file bytes flow from GitHub to the
+user's machine, not through our servers or binary.
+
+This approach (URL reference — not bundling) is analogous to a link or
+bookmark. The OpenEngine binary remains MIT-licensed; we distribute only
+metadata (URLs, titles, attribution). Each item is tagged with
+`"external-reference"` in the manifest and carries the full GPL attribution.
+
+For maximum legal caution, you can:
+- Filter these out in the gallery by searching "not external-reference"
+- Set `OPENENGINE_MANIFEST` to self-host your own manifest without them
+- Use the file picker (Settings → Choose File) to apply from a local clone
+
+To include more wallpapers from this repo, clone it locally and use the file picker.
 
 Run `python3 library/verify_urls.py` after editing the manifest to HTTP-check
 every URL before commit.
