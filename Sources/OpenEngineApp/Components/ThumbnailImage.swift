@@ -1,11 +1,15 @@
 import SwiftUI
 import ImageIO
 import CryptoKit
-/// caching the result on disk so subsequent loads are instant.
+
+/// ThumbnailImage loads an image from a URL, downsamples it with ImageIO,
+/// and caches the result on disk.
 ///
-/// This avoids (1) re-downloading full-resolution images (e.g. 2.3MB 4K
-/// wallpapers) and (2) full-resolution decode in memory. The cache key is
-/// an MD5 of the source URL; cache files live under ~/Library/Caches/OpenEngine/thumbnails/.
+/// Cache: ~/Library/Caches/OpenEngine/thumbnails/<md5(url)>
+///
+/// Concurrency: uses a shared URLSession with `httpMaximumConnectionsPerHost = 4`
+/// to throttle concurrent downloads and prevent network saturation when the
+/// gallery grid has many large images (e.g. 10MB PNGs from mylinuxforwork).
 struct ThumbnailImage: View {
     let url: URL
     let maxDimension: CGFloat
@@ -18,6 +22,13 @@ struct ThumbnailImage: View {
             .appendingPathComponent("OpenEngine/thumbnails", isDirectory: true)
         try? FileManager.default.createDirectory(at: c, withIntermediateDirectories: true)
         return c
+    }()
+
+    /// Throttled session limits concurrent connections per host to 4.
+    static let session: URLSession = {
+        let config = URLSessionConfiguration.default
+        config.httpMaximumConnectionsPerHost = 4
+        return URLSession(configuration: config)
     }()
 
     var body: some View {
@@ -50,19 +61,20 @@ struct ThumbnailImage: View {
 
     private func load() {
         Task {
-            // 1. Try disk cache first
+            // Cache hit → instant
             if let cached = loadFromCache() {
                 await MainActor.run { self.image = cached }
                 return
             }
-            // 2. Download and downsample
+
             do {
-                let (data, _) = try await URLSession.shared.data(from: url)
-                let img = downsample(data)
-                if let img {
-                    saveToCache(img)
-                    await MainActor.run { self.image = img }
+                let (data, _) = try await Self.session.data(from: url)
+                guard let img = downsample(data) else {
+                    await MainActor.run { self.image = nil }
+                    return
                 }
+                saveToCache(img)
+                await MainActor.run { self.image = img }
             } catch {
                 await MainActor.run { self.image = nil }
             }
